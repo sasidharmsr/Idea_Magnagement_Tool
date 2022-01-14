@@ -20,7 +20,7 @@ const Select=styled.select`
 
 
 
-export const Nav = ({buck,grp,yoa}) => {
+export const Nav = ({buck,grp,yoa,toggleez}) => {
     const handleZoomIn=()=>{
         document.body.style.zoom = `${parseInt(document.body.style.zoom) + 10}%`;
     }
@@ -60,7 +60,8 @@ export const Nav = ({buck,grp,yoa}) => {
             <Button  style={{width:50}} color="link" className="zoomout" onClick={()=>handleZoomOut()}>
                 <span className="fa fa-search-minus fa-lg"></span>
             </Button>
-
+            <Button  style={{width:50}} onClick={()=>toggleez()}>
+            <i class="far fa-object-ungroup"></i></Button>
             </div>
             </div>
         {/* <div className='row'>
