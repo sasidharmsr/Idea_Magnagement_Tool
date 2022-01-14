@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Idea_Magnagement_Tool/static/css/main.d76925f2.css",
-    "main.js": "/Idea_Magnagement_Tool/static/js/main.7691b2cb.js",
+    "main.css": "/Idea_Magnagement_Tool/static/css/main.fde34a4c.css",
+    "main.js": "/Idea_Magnagement_Tool/static/js/main.e9b085fc.js",
     "static/js/787.2040eadf.chunk.js": "/Idea_Magnagement_Tool/static/js/787.2040eadf.chunk.js",
     "static/media/logo.svg": "/Idea_Magnagement_Tool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Idea_Magnagement_Tool/index.html",
-    "main.d76925f2.css.map": "/Idea_Magnagement_Tool/static/css/main.d76925f2.css.map",
-    "main.7691b2cb.js.map": "/Idea_Magnagement_Tool/static/js/main.7691b2cb.js.map",
+    "main.fde34a4c.css.map": "/Idea_Magnagement_Tool/static/css/main.fde34a4c.css.map",
+    "main.e9b085fc.js.map": "/Idea_Magnagement_Tool/static/js/main.e9b085fc.js.map",
     "787.2040eadf.chunk.js.map": "/Idea_Magnagement_Tool/static/js/787.2040eadf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d76925f2.css",
-    "static/js/main.7691b2cb.js"
+    "static/css/main.fde34a4c.css",
+    "static/js/main.e9b085fc.js"
   ]
 }
